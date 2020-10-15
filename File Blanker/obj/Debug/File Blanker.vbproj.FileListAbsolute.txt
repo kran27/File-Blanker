@@ -1,0 +1,12 @@
+D:\Repos\File Blanker\File Blanker\bin\Debug\File Blanker.exe.config
+D:\Repos\File Blanker\File Blanker\bin\Debug\File Blanker.exe
+D:\Repos\File Blanker\File Blanker\bin\Debug\File Blanker.pdb
+D:\Repos\File Blanker\File Blanker\bin\Debug\File Blanker.xml
+D:\Repos\File Blanker\File Blanker\obj\Debug\File Blanker.vbprojAssemblyReference.cache
+D:\Repos\File Blanker\File Blanker\obj\Debug\File_Blanker.Form1.resources
+D:\Repos\File Blanker\File Blanker\obj\Debug\File_Blanker.Resources.resources
+D:\Repos\File Blanker\File Blanker\obj\Debug\File Blanker.vbproj.GenerateResource.cache
+D:\Repos\File Blanker\File Blanker\obj\Debug\File Blanker.vbproj.CoreCompileInputs.cache
+D:\Repos\File Blanker\File Blanker\obj\Debug\File Blanker.exe
+D:\Repos\File Blanker\File Blanker\obj\Debug\File Blanker.xml
+D:\Repos\File Blanker\File Blanker\obj\Debug\File Blanker.pdb
