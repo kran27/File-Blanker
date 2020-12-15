@@ -27,5 +27,10 @@ File Blanker
   Looks up a localized resource of type System.Byte[].
 </summary>
 </member>
+<member name="P:File_Blanker.My.Resources.Resources.icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
 </members>
 </doc>
